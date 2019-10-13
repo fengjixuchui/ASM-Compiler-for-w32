@@ -1,6 +1,6 @@
 ## Compile `.asm` Files for w32
 
-## Usage
+### Usage
 
 Compile program: `g++ asm_compiler.cpp -o asm_compiler.exe`
 
