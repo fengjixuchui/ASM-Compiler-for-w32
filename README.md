@@ -16,15 +16,15 @@ Compile and run new executable: `asm_compiler.exe simple example (-r or --run)`
 
 Example output:
 ```terminal_session
-C:\Users\IEUser\Documents>asm_compiler.exe simple work
-[+] Created executable: 'work.exe'
+C:\Users\IEUser\Documents>asm_compiler.exe simple example
+[+] Created executable: 'example.exe'
 [+] Cleanup complete.
 ```
 
 Example output with run:
 ```terminal_session
-C:\Users\IEUser\Documents>asm_compiler.exe simple work --run
-[+] Created executable: 'work.exe'
+C:\Users\IEUser\Documents>asm_compiler.exe simple example --run
+[+] Created executable: 'example.exe'
 [+] Cleanup complete.
 [+] Executing new program...
 [+] New pgroam executed.
