@@ -27,5 +27,5 @@ C:\Users\IEUser\Documents>asm_compiler.exe simple example --run
 [+] Created executable: 'example.exe'
 [+] Cleanup complete.
 [+] Executing new program...
-[+] New pgroam executed.
+[+] New program executed.
 ```
